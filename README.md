@@ -9,6 +9,7 @@ Acknowledgements
 The dataset is taken from Kaggle.
 
 Stractegic Plan of Action:
+
 We aim to solve the problem statement by creating a plan of action, Here are some of the necessary steps:
 
 Checking Missing Value
